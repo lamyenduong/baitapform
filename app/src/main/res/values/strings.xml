@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">baitapmobile2</string>
+    <string name="trinhdo">Trình độ</string>
+    <string name="gioitinh">Giới tính</string>
+    <string name="sdt">Số điện thoại</string>
+    <string name="hoten">Họ tên</string>
+    <string name="text">text</string>
+    <string name="name">name</string>
+    <string name="phonenumber">phonenumber</string>
+    <string name="tuoi">Tuổi</string>
+    <string name="thethao">Thể thao</string>
+    <string name="amnhac">Thể loại âm nhạc</string>
+    <string name="rock">Rock</string>
+    <string name="rap">Rap</string>
+    <string name="pop">Pop</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="tuoi_in">20</string>
+</resources>
